@@ -2,7 +2,7 @@ extends StaticBody2D
 
 @export var ball: CharacterBody2D
 @export var speed := 350.0
-@export var miss_chance := 0.25
+@export var miss_chance := 0.15
 var miss_offset := 0.0
 var ball_was_coming := false
 
